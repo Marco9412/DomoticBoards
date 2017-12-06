@@ -1,0 +1,2 @@
+Install micropython on esp8266, then copy these files into filesystem.
+Restart esp.
